@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hello 
+It's me IbrahimSensei a Java Expert Programmer ☕🙂
+
+## My Projects
+
+TicTacToe
+
+## Other Languages
+
+Python, C++ and C#
+
+## I'm currently working on 
+
+Making new Language with Java
+Making Games With C#
+learning more about Python and C++
+
+thank you 🙂🙂
 
 <!--
 **IbrahimSensei/IbrahimSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
