@@ -1,5 +1,5 @@
 # Hello 
-It's me IbrahimSensei a Java Expert Programmer ☕🙂
+It's me IbrahimSensei a Expert Java Programmer ☕🙂
 
 ## My Projects
 
@@ -12,10 +12,7 @@ Python, C++ and C#
 ## I'm currently working on 
 
 
-Making new Language with Java
-
-
-Making Games With C#
+Making new Language with Java Called Eggo click here for more information 
 
 
 learning more about Python and C++
